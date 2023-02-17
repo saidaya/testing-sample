@@ -2,3 +2,5 @@
 
 # Code : python
 # Frontend : React JS
+# DB : SQL
+
