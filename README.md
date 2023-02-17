@@ -25,3 +25,5 @@
 # qwerty
 # qwerty 
 # Sai Daya Shankar G
+
+# asdfghjklzxcvbnm,qwertyuiosdfghjkl;zxcvbnm
